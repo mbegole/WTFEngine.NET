@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WTFEngine.NET", "WTFEngine.NET\WTFEngine.NET.csproj", "{7467D4F7-0755-4346-9A33-1B1197DB4A7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTFEngine.NET.Tests", "..\WTFEngine.NET.Tests\WTFEngine.NET.Tests.csproj", "{42D42545-800D-43CA-9D83-C8ACD4E9A307}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{DA5BD3DC-8850-4092-A900-91DA2607CD22}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.md = ReadMe.md
@@ -15,6 +13,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CA5BFA19-9691-4941-A0F5-31000420D749}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{35574CB5-DAB8-407E-A734-D465F3F3EBD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WTFEngine.NET.Tests", "WTFEngine.NET.Tests\WTFEngine.NET.Tests.csproj", "{4DFB9B02-883E-4497-A252-4AB290C12D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,17 +26,17 @@ Global
 		{7467D4F7-0755-4346-9A33-1B1197DB4A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7467D4F7-0755-4346-9A33-1B1197DB4A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7467D4F7-0755-4346-9A33-1B1197DB4A7B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{42D42545-800D-43CA-9D83-C8ACD4E9A307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42D42545-800D-43CA-9D83-C8ACD4E9A307}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42D42545-800D-43CA-9D83-C8ACD4E9A307}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42D42545-800D-43CA-9D83-C8ACD4E9A307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFB9B02-883E-4497-A252-4AB290C12D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFB9B02-883E-4497-A252-4AB290C12D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFB9B02-883E-4497-A252-4AB290C12D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFB9B02-883E-4497-A252-4AB290C12D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7467D4F7-0755-4346-9A33-1B1197DB4A7B} = {CA5BFA19-9691-4941-A0F5-31000420D749}
-		{42D42545-800D-43CA-9D83-C8ACD4E9A307} = {35574CB5-DAB8-407E-A734-D465F3F3EBD8}
+		{4DFB9B02-883E-4497-A252-4AB290C12D64} = {35574CB5-DAB8-407E-A734-D465F3F3EBD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2A845B6-A49F-4E3C-8EC1-C612F79AB64C}

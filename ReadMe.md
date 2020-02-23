@@ -3,7 +3,6 @@
 Inspired by the [WTFEngine](https://github.com/soulwire/WTFEngine) originally made in JavaScript and now converted to .NET!
 
 ## WTF is this?
----
 This is a simple interface made in C# for creating what are essentially mad-libs. For example:
 
 ```c# 
@@ -40,5 +39,4 @@ This code would look for substrings in the template with the ~ prepend.
 An interface was included in this project for simple dependency injection use cases.
 
 ## Why TF did you make this?
----
 This was just a side project I made while using the idea of the WTF Engine on a C# project. Nothing too crazy is going on here.
