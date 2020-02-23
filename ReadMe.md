@@ -2,6 +2,9 @@
 --
 Inspired by the [WTFEngine](https://github.com/soulwire/WTFEngine) originally made in JavaScript and now converted to .NET!
 
+![build](https://github.com/mbegole/WTFEngine.NET/workflows/.NET%20Core/badge.svg?branch=master)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## WTF is this?
 This is a simple interface made in C# for creating what are essentially mad-libs. For example:
 
