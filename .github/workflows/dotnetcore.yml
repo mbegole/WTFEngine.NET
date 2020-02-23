@@ -22,4 +22,4 @@ jobs:
         # Artifact name
         name: wtf-engine
         # Directory containing files to upload
-        path: cat WTFEngine.NET/bin/Release/netstandard2.0/WTFEngine.NET.dll
+        path: WTFEngine.NET/bin/Release/netstandard2.0/WTFEngine.NET.dll
